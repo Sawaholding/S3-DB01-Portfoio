@@ -22,7 +22,11 @@ Culture differences can vary from two countries cultures to two communities or s
 I have thrived and I hope that I will continue to thrive of collecting many small fragments of different cultures within me. 
 I consider my self an inbetweener that can bridge some aspects of the Levant in the east with some of the west of Europe, adding to that, I have spent ten years changing countries since the war of syria started, which mostly I have spent within expats communities, which by itself is a global/diverse/rich/colorful culture that I belong partially to as well.
 </p>
+
+
 ## Communications with respect to cultural differences in the group: 
+
+
 <p>
 I found it really important to set from the beginning a list of expectation, so I have asked to have a meeting where each one of us declared his expectation of how much effort/communication/semester-grade is expecting. After that I have made sure that I communicate personally with each one individually, which gave the time and the opportunity to create a common understanding of the person, chosen terms and vocabulary and the level of directness. After that I have made sure that when I can I will try to highlight the understanding that anyone can object and that we will only move forward within reasonable unanimous agreement.
 </p>
@@ -34,12 +38,14 @@ introduction: with more and more awareness about the enormous impact that softwa
 In the last 20 years companies like Cambridge Analytica and Facebook, have been able to shape our world, many(including myself) will say not to the better but to the worse.
 </p>
 
+<p>
 When software companies start to use the freedom of speech and exploit it with freedom or reach, we are never more exposed for foes more acknowledged and aware of our weaknesses than ever before, and reaching us inside our safe low guarded homes.
 Not only private data companies are the threats, many shouts are calling for how easy it is for a handful of software engineers to switch governmental traffic sensors into monitoring surveillance agents.
+</p>
 The cases to prove the need to consider the morality and ethics of software development are endless and for the near future might(unfortunately) only to increase.
 
 
-Ethical aspects in my work:
+# Ethical aspects in my work:
 The ethical considerations related to the projects I am helping developing needs to stretch for what beyond the right now level of development, as it is too easy to overstep some consideration if it was not made out of clear rules, (black and white) type of rules.
 For the GP development we are working with PO that has its own agenda, like profit as a driving force for example. That could lead for the PO to ask for cross selling or up selling technics, through software solutions, an unethical approach will lead for increase in the consumerism behavior of the user without any consideration for sustainability for example and the balance between booth is not an easy task.
 For my IP project I am developing a marketing/management system that aims to help small-medium business to compete with the giants monopolies of the market. 
