@@ -53,8 +53,12 @@ I found it really important to set from the beginning a list of expectation, so 
 
  
 # The ethics of the software development:
+### Introduction: 
 <p>
-introduction: with more and more awareness about the enormous impact that software has on our lives, the topic to consider the moralities of our applications and the applications tactics is rising up and becoming a more needed consideration by the day.
+ 
+
+ 
+ with more and more awareness about the enormous impact that software has on our lives, the topic to consider the moralities of our applications and the applications tactics is rising up and becoming a more needed consideration by the day.
  <br/>
 In the last 20 years companies like Cambridge Analytica and Facebook, have been able to shape our world, many(including myself) will say not to the better but to the worse.
 </p>
